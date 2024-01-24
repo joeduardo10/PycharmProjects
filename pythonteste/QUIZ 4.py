@@ -1,0 +1,20 @@
+from colorama import Fore
+
+print(Fore.RED + "hello world")
+print(Fore.BLUE + "hello world")
+print(Fore.GREEN + "hello world")
+print(Fore.LIGHTGREEN_EX + "hello world")
+print(Fore.YELLOW + "hello world")
+print(Fore.CYAN + "hello world")
+print(Fore.LIGHTCYAN_EX + "hello world")
+print(Fore.LIGHTBLACK_EX+ "hello world")
+print(Fore.LIGHTBLUE_EX + "hello world")
+print(Fore.LIGHTMAGENTA_EX + "hello world")
+print(Fore.LIGHTRED_EX + "hello world")
+print(Fore.WHITE + "hello world")
+print(Fore.MAGENTA + "hello world")
+print(Fore.LIGHTWHITE_EX + "hello world")
+print(Fore.BLACK + "hello world")
+print("hello world")
+print(Fore.RESET + "hello world")
+

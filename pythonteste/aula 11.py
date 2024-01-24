@@ -1,0 +1,5 @@
+print('\33[0;30;41m TESTE')
+print('\33[4:33:44m TESTE')
+print('\33[1;35;43m TESTE')
+print('\33[m TESTE')
+print('\33[7;30m TESTE')
